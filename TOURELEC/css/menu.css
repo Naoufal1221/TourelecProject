@@ -23,7 +23,7 @@ body{
 /* logo and image styling*/
 
 .image-logo{
-    height: 55px;
+    height: 75px;
     width: 120px;
 }
 .title-logo{
@@ -72,8 +72,9 @@ a{
 
 .social-icons a{
     padding: 0.5rem;
-    color: #456E99;
-}
+    color: #347AB7;
+    transition: all 0.5s ease-out;}
+
 /*-------------------------------------------------*/
 
 .hamburger-menu{
@@ -172,7 +173,7 @@ a{
         padding: 0 10rem;
         overflow: hidden;
         list-style: none;
-        background:#456E99;
+        background:#347AB7;
         transform: translate3d(100%,0,0);
         transition: all 0.9s ease-out;
    
